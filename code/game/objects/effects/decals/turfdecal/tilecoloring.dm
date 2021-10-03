@@ -153,7 +153,7 @@
 /obj/effect/turf_decal/tile/neutral
 	name = "neutral corner"
 	color = "#F5870A"   //"#D4D4D4"  //Halloweenify for October. Change back after October
-	alpha = 50
+	alpha = 99 //50
 
 /obj/effect/turf_decal/tile/neutral/half
 	icon_state = "tile_half"
