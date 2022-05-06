@@ -851,7 +851,7 @@
 /area/hallway/secondary/entry)
 "dc" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 8
+	dir = 4
 	},
 /obj/structure/cable,
 /turf/open/floor/iron,
@@ -1279,7 +1279,7 @@
 /area/hallway/secondary/entry)
 "eG" = (
 /obj/machinery/airalarm/unlocked{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /turf/open/floor/iron,
@@ -1380,12 +1380,6 @@
 /obj/machinery/light/directional/west,
 /turf/open/floor/iron,
 /area/hallway/secondary/entry)
-"eW" = (
-/obj/effect/turf_decal/stripes/corner{
-	dir = 1
-	},
-/turf/open/floor/iron,
-/area/commons/storage/primary)
 "eY" = (
 /obj/machinery/conveyor{
 	dir = 8;
@@ -1637,7 +1631,7 @@
 "fH" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/effect/turf_decal/stripes/corner{
-	dir = 4
+	dir = 1
 	},
 /obj/structure/cable,
 /turf/open/floor/iron,
@@ -1913,7 +1907,7 @@
 /obj/machinery/camera/autoname/directional/south,
 /obj/structure/cable,
 /obj/effect/turf_decal/stripes/corner{
-	dir = 1
+	dir = 8
 	},
 /turf/open/floor/iron,
 /area/cargo/miningoffice)
@@ -2029,6 +2023,12 @@
 /obj/machinery/chem_mass_spec,
 /turf/open/floor/iron,
 /area/medical/chemistry)
+"nm" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/commons/storage/primary)
 "nn" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 8
@@ -2175,7 +2175,7 @@
 /area/commons/storage/primary)
 "vy" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 4
+	dir = 1
 	},
 /turf/open/floor/iron,
 /area/cargo/miningoffice)
@@ -6018,7 +6018,7 @@ gG
 ii
 dy
 dm
-dM
+cZ
 cN
 Vr
 vm
@@ -7019,18 +7019,18 @@ cD
 bE
 bE
 cN
+dM
+do
+dz
+EG
+gy
+dz
+dz
+gy
+EG
+dz
+do
 dK
-do
-dz
-EG
-gy
-dz
-dz
-gy
-EG
-dz
-do
-cZ
 cN
 Tt
 Rb
@@ -7300,13 +7300,13 @@ dC
 dC
 dC
 dC
-eW
 nq
+nm
 dC
 dC
 dC
 dC
-eW
+nq
 vv
 fO
 fO

@@ -10,7 +10,7 @@
 /area/ruin/syndicate_lava_base/testlab)
 "ag" = (
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/effect/turf_decal/tile/red{
@@ -672,7 +672,7 @@
 /area/ruin/syndicate_lava_base/chemistry)
 "eY" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 4
+	dir = 1
 	},
 /obj/structure/closet/crate,
 /obj/item/storage/box/donkpockets{
@@ -795,7 +795,7 @@
 "fu" = (
 /obj/machinery/light/small/directional/west,
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/structure/table,
@@ -1010,7 +1010,7 @@
 /area/ruin/syndicate_lava_base/cargo)
 "gS" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 4
+	dir = 1
 	},
 /obj/machinery/light/small/directional/east,
 /obj/machinery/button/door{
@@ -1023,7 +1023,7 @@
 /area/ruin/syndicate_lava_base/cargo)
 "gU" = (
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/structure/sink{
@@ -1615,7 +1615,7 @@
 /area/ruin/syndicate_lava_base/main)
 "je" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 1
+	dir = 8
 	},
 /obj/effect/mapping_helpers/no_lava,
 /turf/open/floor/plating/lavaland_atmos,
@@ -2043,7 +2043,7 @@
 /turf/open/floor/plating/lavaland_atmos,
 /area/lavaland/surface/outdoors)
 "ly" = (
-/obj/structure/chair/stool/bar/directional/east,
+/obj/structure/chair/stool/bar/directional/west,
 /turf/open/floor/iron/dark,
 /area/ruin/syndicate_lava_base/bar)
 "lA" = (
@@ -2087,7 +2087,7 @@
 /area/ruin/syndicate_lava_base/medbay)
 "lL" = (
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/machinery/light/small/directional/west,
@@ -2330,7 +2330,7 @@
 /area/ruin/syndicate_lava_base/engineering)
 "no" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 1
+	dir = 8
 	},
 /obj/effect/turf_decal/tile/red{
 	dir = 4
@@ -2730,7 +2730,7 @@
 /area/ruin/syndicate_lava_base/virology)
 "rv" = (
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/structure/chair/stool/directional/south,
@@ -2848,7 +2848,7 @@
 "tT" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
-/obj/structure/chair/stool/bar/directional/east,
+/obj/structure/chair/stool/bar/directional/west,
 /turf/open/floor/iron/dark,
 /area/ruin/syndicate_lava_base/bar)
 "um" = (
@@ -3294,7 +3294,7 @@
 /area/ruin/syndicate_lava_base/engineering)
 "BD" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 4
+	dir = 1
 	},
 /obj/structure/closet/crate,
 /obj/item/storage/box/donkpockets{
@@ -3337,7 +3337,7 @@
 /area/ruin/syndicate_lava_base/bar)
 "Ci" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /obj/structure/closet/crate/internals,
 /obj/item/tank/internals/oxygen/yellow,
@@ -3408,7 +3408,7 @@
 /area/ruin/syndicate_lava_base/engineering)
 "CR" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/structure/closet/crate,
 /obj/item/storage/box/stockparts/deluxe,
@@ -3442,7 +3442,7 @@
 /obj/structure/sign/warning/fire,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/effect/turf_decal/stripes/corner{
-	dir = 8
+	dir = 4
 	},
 /turf/open/floor/iron,
 /area/ruin/syndicate_lava_base/engineering)
@@ -3592,7 +3592,7 @@
 /area/ruin/syndicate_lava_base/main)
 "Gs" = (
 /obj/effect/turf_decal/stripes/red/corner{
-	dir = 4
+	dir = 1
 	},
 /obj/machinery/button/door{
 	id = "syndie_lavaland_vault";
@@ -3640,7 +3640,7 @@
 /area/ruin/syndicate_lava_base/dormitories)
 "HQ" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 8
+	dir = 4
 	},
 /obj/machinery/light/small/directional/south,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4{
@@ -3990,7 +3990,7 @@
 /area/ruin/syndicate_lava_base/main)
 "NQ" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
-/obj/structure/chair/stool/bar/directional/east,
+/obj/structure/chair/stool/bar/directional/west,
 /turf/open/floor/iron/dark,
 /area/ruin/syndicate_lava_base/bar)
 "NR" = (
@@ -4010,7 +4010,7 @@
 /area/ruin/syndicate_lava_base/engineering)
 "Ob" = (
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
@@ -4657,7 +4657,7 @@
 /area/ruin/syndicate_lava_base/engineering)
 "YS" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/structure/closet/crate/secure/weapon{
 	req_access_txt = "150"

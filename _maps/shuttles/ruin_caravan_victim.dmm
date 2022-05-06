@@ -230,7 +230,7 @@
 /area/shuttle/caravan/freighter1)
 "lx" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /turf/open/floor/iron/airless{
 	icon_state = "damaged4"
@@ -371,7 +371,7 @@
 /area/shuttle/caravan/freighter1)
 "qM" = (
 /obj/machinery/airalarm/all_access{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -422,9 +422,15 @@
 /area/shuttle/caravan/freighter1)
 "tg" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/airless,
+/area/shuttle/caravan/freighter1)
+"tv" = (
+/obj/effect/turf_decal/box/white/corners{
+	dir = 1
+	},
 /turf/open/floor/iron/dark/airless,
 /area/shuttle/caravan/freighter1)
 "ur" = (
@@ -441,7 +447,7 @@
 /area/shuttle/caravan/freighter1)
 "xz" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 4
+	dir = 1
 	},
 /turf/open/floor/iron/airless{
 	icon_state = "damaged5"
@@ -601,7 +607,7 @@
 /area/shuttle/caravan/freighter1)
 "DQ" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 4
+	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/crate,
@@ -844,7 +850,7 @@
 /area/shuttle/caravan/freighter1)
 "OK" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/mineral/uranium{
@@ -880,12 +886,6 @@
 	pixel_y = 4
 	},
 /turf/open/floor/iron/airless,
-/area/shuttle/caravan/freighter1)
-"RI" = (
-/obj/effect/turf_decal/box/white/corners{
-	dir = 8
-	},
-/turf/open/floor/iron/dark/airless,
 /area/shuttle/caravan/freighter1)
 "RN" = (
 /obj/effect/turf_decal/bot,
@@ -982,7 +982,7 @@
 /area/shuttle/caravan/freighter1)
 "WU" = (
 /obj/machinery/airalarm/all_access{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -994,7 +994,7 @@
 /area/shuttle/caravan/freighter1)
 "WX" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/plasteel/twenty,
@@ -1027,7 +1027,7 @@
 /area/shuttle/caravan/freighter1)
 "ZZ" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/rglass{
@@ -1127,7 +1127,7 @@ ss
 CU
 ZZ
 hk
-RI
+ot
 NY
 "}
 (8,1,1) = {"
@@ -1138,7 +1138,7 @@ yc
 Fv
 sf
 VT
-ot
+tv
 hk
 AX
 Xh

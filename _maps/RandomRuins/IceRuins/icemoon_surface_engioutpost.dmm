@@ -799,7 +799,7 @@
 "kS" = (
 /obj/effect/turf_decal/tile/yellow,
 /obj/effect/turf_decal/box/corners{
-	dir = 1
+	dir = 8
 	},
 /turf/open/floor/iron/icemoon,
 /area/ruin/planetengi)

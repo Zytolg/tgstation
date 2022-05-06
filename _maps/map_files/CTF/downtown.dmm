@@ -159,7 +159,7 @@
 /area/ctf)
 "dd" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 8
+	dir = 4
 	},
 /obj/effect/turf_decal/tile/red{
 	dir = 4
@@ -178,12 +178,6 @@
 	dir = 1
 	},
 /turf/open/floor/eighties,
-/area/ctf)
-"dw" = (
-/obj/effect/turf_decal/stripes/corner{
-	dir = 4
-	},
-/turf/open/floor/iron,
 /area/ctf)
 "dC" = (
 /obj/structure/fluff/bus/passable/seat{
@@ -309,13 +303,6 @@
 	resistance_flags = 64
 	},
 /turf/open/floor/carpet/blue,
-/area/ctf)
-"go" = (
-/obj/structure/chair/stool/bar/directional/east{
-	item_chair = null;
-	resistance_flags = 64
-	},
-/turf/open/floor/wood,
 /area/ctf)
 "gu" = (
 /obj/structure/barricade/security/ctf,
@@ -1459,7 +1446,7 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/tile/bar,
-/obj/structure/chair/stool/bar/directional/north{
+/obj/structure/chair/stool/bar/directional/south{
 	item_chair = null;
 	resistance_flags = 64
 	},
@@ -1612,7 +1599,7 @@
 /area/ctf)
 "GE" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 1
+	dir = 8
 	},
 /obj/effect/turf_decal/tile/red{
 	dir = 8
@@ -1700,7 +1687,7 @@
 /area/ctf)
 "II" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 8
+	dir = 4
 	},
 /obj/effect/turf_decal/tile/blue{
 	dir = 1
@@ -2127,6 +2114,12 @@
 	},
 /turf/open/floor/iron,
 /area/ctf)
+"Rd" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/ctf)
 "Rj" = (
 /obj/item/reagent_containers/food/condiment/saltshaker,
 /obj/effect/decal/cleanable/dirt,
@@ -2434,7 +2427,7 @@
 /area/ctf)
 "Yb" = (
 /obj/effect/turf_decal/stripes/corner{
-	dir = 4
+	dir = 1
 	},
 /obj/effect/turf_decal/tile/blue,
 /turf/open/floor/iron/dark,
@@ -3082,7 +3075,7 @@ TD
 td
 II
 Ym
-vY
+Rd
 jS
 jS
 jS
@@ -3444,9 +3437,9 @@ xs
 td
 lL
 ql
-go
+hU
 ql
-go
+hU
 QC
 td
 mB
@@ -3596,9 +3589,9 @@ BH
 Am
 Ug
 ql
-go
+hU
 ql
-go
+hU
 QC
 Am
 Ad
@@ -3941,7 +3934,7 @@ dO
 sZ
 Dm
 ql
-go
+hU
 td
 Ij
 yX
@@ -4564,7 +4557,7 @@ da
 td
 BK
 fi
-dw
+vY
 jS
 jS
 jS

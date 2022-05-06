@@ -142,7 +142,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/airalarm/syndicate{
-	dir = 8;
+	dir = 4;
 	pixel_x = -24
 	},
 /turf/open/floor/iron/dark,
@@ -531,7 +531,7 @@
 /area/ruin/space/has_grav/listeningstation)
 "bp" = (
 /obj/effect/turf_decal/stripes/red/corner{
-	dir = 8
+	dir = 4
 	},
 /obj/machinery/door/airlock{
 	name = "Cabin"
@@ -681,7 +681,8 @@
 	},
 /obj/machinery/iv_drip,
 /obj/machinery/airalarm/syndicate{
-	pixel_y = -24
+	pixel_y = -24;
+	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
@@ -833,7 +834,7 @@
 "FN" = (
 /obj/machinery/light/small/directional/east,
 /obj/effect/turf_decal/stripes/corner{
-	dir = 4
+	dir = 1
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on{
